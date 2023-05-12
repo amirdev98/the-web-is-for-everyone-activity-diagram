@@ -1,20 +1,4 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
-## User Story
-<!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
-
-## Activity Diagram
-<!-- Toon de activity Diagram -->
-
-## Uitleg pseudo-code 
-<!-- Leg de pseudo-code in de control fow uit -->
+Hier kunt u een control-flow van mijn website zien:
 
 
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+<img width="769" alt="Screenshot 2023-05-12 at 12 36 16" src="https://github.com/amirdev98/the-web-is-for-everyone-activity-diagram/assets/81859699/4f4941d9-2aad-45e9-9717-4c3a23d1baca">
